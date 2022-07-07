@@ -32,7 +32,7 @@ public class MyWebApplicationInitializer extends AbstractAnnotationConfigDispatc
 //    @Override
 //    public void onStartup(ServletContext servletContext) throws ServletException {
 //        // Load Spring web application configuration
-//        AnnotationConfigWebApplicationContext context = new AnnotationConfigWebApplicationContext();
+//        AnnotationConfigWebApplicationContext context = new AnnotationConfigWebApplicat   ionContext();
 //        context.register(AppConfig.class);
 //
 //        // Create and register the DispatcherServlet
